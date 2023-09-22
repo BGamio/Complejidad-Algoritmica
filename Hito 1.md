@@ -7,13 +7,13 @@
 | Gamio Upiachihua, Brenda Lucía | U202120344 | Ingeniería de Software |
 
 ## 1. Descripción del problema
-Me quiero morir
+Aquí iría la descripción
 
 ## 2. Descripción y vizualición del conjunto de datos
-que ganas 
+Aquí iría la descripción 
 
 ## 3. Propuesta
-de
+Aquí iría la descripción
 
 ## 4. Bibliografía
-morirme
+Aquí iría la descripción
