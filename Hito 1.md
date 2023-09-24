@@ -1,10 +1,57 @@
-# Informe del trabajo final
+<div align="center">
 
-| Nombre y Apellido      | Código | Carrera |
-| ---------------------- | ------ | ------- |
-| Nombre    | UXXXXXXXX | Ingeniería de xxxxx|
-| Pozo Campos, Rodrigo Jair | U20181E187 | Ingeniería de Software|
-| Gamio Upiachihua, Brenda Lucía | U202120344 | Ingeniería de Software |
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC">
+
+
+# Universidad Peruana de Ciencias Aplicadas
+
+Ingeniería de Software
+
+Ciclo 2023-02
+
+<hr>
+
+# <center>Complejidad Algoritmica</center>
+
+## TP REPORT
+
+**Sección:** WX73
+
+**Profesor**: Luis Martin Canaval Sanchez
+
+**Producto**: AutoGo
+
+### Team Members:
+
+| Member                            |    Code    |
+| :-------------------------------- | :--------: |
+| Rojas Ccama, Carlos Andres        | U202114657 |
+| Pozo Campos, Rodrigo Jair         | U20181E187 |
+| Gamio Upiachihua, Brenda Lucía    | U202120344 |
+
+
+<br>
+<br>
+
+
+Agosto del 2023
+
+</div>
+
+# Contenido
+
+## Tabla de Contenidos
+
+### [Contenido](#contenido)
+
+### [Student Outcome](#student-outcome-1)
+
+### [Hito I: Descripción del problema ](#1-descripción-del-problema)
+
+### [Hito II: Descripción y vizualición del conjunto de datos ](#2-descripción-y-vizualición-del-conjunto-de-datos)
+
+### [Hito III: Propuesta ](#3-propuesta)
+
 
 ## 1. Descripción del problema
 
