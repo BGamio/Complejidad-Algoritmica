@@ -34,4 +34,5 @@ Para llevar a cabo este proyecto, adquirimos dos conjuntos de datos con el prop�
 Aquí iría la descripción
 
 ## 4. Bibliografía
-Aquí iría la descripción
+<https://opendata.dc.gov/datasets/DCGIS::address-points/explore?location=38.890346%2C-77.017197%2C12.76&showTable=true>
+<https://opendata.dc.gov/datasets/8655869366064bdca04bb6793cc02a54_3/explore?showTable=true>
