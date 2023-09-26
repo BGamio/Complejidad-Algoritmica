@@ -95,7 +95,24 @@ Para llevar a cabo este proyecto, adquirimos dos conjuntos de datos con el prop�
 
 
 ## 3. Propuesta
-Aquí iría la descripción
+El objetivo principal de esta propuesta es desarrollar un sistema de navegación eficiente que permita a los usuarios encontrar la ruta más corta entre dos puntos dentro de una ciudad. Este sistema debe ser fácil de usar, preciso y rápido, y deberá tener en cuenta varios factores como el tráfico en tiempo real, las preferencias del usuario y otros elementos relevantes.
+   - **Recopilación de datos:**
+     Obtener datos cartográficos detallados de la ciudad, que incluyan información sobre calles, carreteras,   
+     intersecciones, señales de tráfico
+   - **Algoritmo de enrutamiento**
+     Implementar un algoritmo de enrutamiento eficiente, como el algoritmo Dijkstra, que calcule la ruta más corta entre 
+     dos puntos.
+   - **Interfaz de usuario**
+     Desarrollar una interfaz de usuario intuitiva para la aplicación, que permita a los usuarios ingresar sus puntos de 
+     inicio y destino.
+     Mostrar la ruta recomendada en el mapa, junto con información relevante, estimado de llegada, el tráfico y las 
+     instrucciones paso a paso.
+   - **Seguridad y privacidad**
+     Implementar medidas de seguridad para proteger los datos del usuario y garantizar la privacidad.
+     Cumplir con las regulaciones de protección de datos y privacidad.
+
+
+
 
 ## 4. Bibliografía
 <https://opendata.dc.gov/datasets/DCGIS::address-points/explore?location=38.890346%2C-77.017197%2C12.76&showTable=true>
