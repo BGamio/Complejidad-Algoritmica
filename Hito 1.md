@@ -107,9 +107,6 @@ El objetivo principal de esta propuesta es desarrollar un sistema de navegación
      inicio y destino.
      Mostrar la ruta recomendada en el mapa, junto con información relevante, estimado de llegada, el tráfico y las 
      instrucciones paso a paso.
-   - **Seguridad y privacidad**
-     Implementar medidas de seguridad para proteger los datos del usuario y garantizar la privacidad.
-     Cumplir con las regulaciones de protección de datos y privacidad.
 
 
 
