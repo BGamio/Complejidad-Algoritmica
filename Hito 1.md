@@ -84,6 +84,23 @@ Para llevar a cabo este proyecto, adquirimos dos conjuntos de datos con el prop�
   - **Calles.txt:**
   Este último archivo de texto contiene los nombres de cada una de las calles que contiene la zona elegida.
 
+| STREETSEGID |  QUADCODE  |     ST_NAME    |
+| :----------:| :--------: | :-------------:| 
+|      1      |      3     |    Bangor St   |
+|      5      |      2     |   Florida Ave  |
+|      11     |      1     |      O St      |
+|      12     |      1     |      T St      |
+|      13     |      1     |   Whittier St  |
+|      15     |      1     |    19th St     |
+|      16     |      4     |  Maryland Ave  |
+|      17     |      1     |     8th St     |
+|      19     |      3     |      K St      |
+|      22     |      2     | Kenilworth Ave |
+|      24     |      1     |  Chesapeake St |
+|      26     |      2     |      H St      |
+|      27     |      2     |      C St      |
+|      29     |      2     |     4th St     |
+
 * Puntos de direcciones con 144 108 registros. De estos registros se podría sacar:
   
     - **Nodos.txt:**
@@ -92,6 +109,23 @@ Para llevar a cabo este proyecto, adquirimos dos conjuntos de datos con el prop�
   Este archivo de texto contiene las aristas que conformarán el grafo. Estas aristas poseen únicamente una columna, la cual hace referencia al número de dirección. 
   - **Calles.txt:**
   Este último archivo de texto contiene los nombres de cada una de las calles que contiene la zona elegida.
+
+| ADDRESS_NUMBER |   STREET_NAME   | Y_COORDINATE | X_COORDINATE |  LATITUDE   |   LONGITUD   | 
+| :-------------:|:---------------:|:------------:|:------------:|:-----------:|:------------:|
+|      7428      |     GEORGIA     |   145855.59  |   397663.49  | 38.98062369 | -77.02696622 |
+|        2       | REV LLOYD YOUNG |   136378.23  |   401734.22  | 38.89525024 | -76.98000891 |
+|        4       | REV LLOYD YOUNG |   136385.15  |   401734.75  | 38.89531258 | -76.98000278 |
+|        6       | REV LLOYD YOUNG |   136391.27  |   401734.22  | 38.89536771 | -76.98000888 |
+|        8       | REV LLOYD YOUNG |   136397.39  |   401733.95  | 38.89542284 | -76.98001197 |
+|       10       | REV LLOYD YOUNG |   136403.24  |   401733.95  | 38.89547554 | -76.98001196 |
+|       12       | REV LLOYD YOUNG |   136408.83  |   401733.95  | 38.8955259  | -76.98001194 |
+|       14       | REV LLOYD YOUNG |   136415.21  |   401733.68  | 38.89558337 | -76.98001504 |
+|       16       | REV LLOYD YOUNG |   136421.87  |   401733.42  | 38.89564337 | -76.98001802 |
+|      2007      |     TRENTON     |   130814.77  |   402173.11  | 38.8451317  | -76.97496722 |
+|      1302      |     TRINIDAD    |   137308.68  |   401194.41  | 38.9036333  | -76.98622991 |
+|      1327      |    UNDERWOOD    |   144587.65  |   397316.83  | 38.96920114 | -77.03096214 |
+|       511      |     BRUMMEL     |   145786.18  |   398130.87  | 38.97999988 | -77.02157188 |
+|      4712      |      ALTON      |   142116.05  |   391904.38  | 38.94690312 | -77.09338929 |
 
 **¿Cómo se va a utilizar en el aplicativo?**
 
