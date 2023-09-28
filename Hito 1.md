@@ -93,6 +93,12 @@ Para llevar a cabo este proyecto, adquirimos dos conjuntos de datos con el prop�
   - **Calles.txt:**
   Este último archivo de texto contiene los nombres de cada una de las calles que contiene la zona elegida.
 
+**¿Cómo se va a utilizar en el aplicativo?**
+
+ Los datos recopilados serán empleados en la elaboración de nuestro programa, para la elaboración del mapa utilizaremos los algoritmos necesarios, en el cual se realizarán las búsquedas de caminos.
+ 
+Con la información del archivo nodes, bordes y calles, iremos creando nuestro grafo el cual representará y se mostrará en la aplicación como el mapa el cual abarca la zona elegida. También en la App mostraremos una lista de las calles que tenemos en nuestra data, siendo las calles que componen el alcance de nuestro mapa.
+
 
 ## 3. Propuesta
 El objetivo principal de esta propuesta es desarrollar un sistema de navegación eficiente que permita a los usuarios encontrar la ruta más corta entre dos puntos dentro de una ciudad. Este sistema debe ser fácil de usar, preciso y rápido, y deberá tener en cuenta varios factores como el tráfico en tiempo real, las preferencias del usuario y otros elementos relevantes.
