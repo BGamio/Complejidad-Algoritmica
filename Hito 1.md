@@ -88,7 +88,7 @@ Para llevar a cabo este proyecto, adquirimos dos conjuntos de datos con el prop�
   
     - **Nodos.txt:**
   El presente archivo de texto contiene datos de referencia sobre los nodos que conformarán nuestro grafo en el futuro. Estos nodos representarán las intersecciones entre dos calles. El formato del archivo consta de cuatro columnas, donde las cuatro corresponden a las coordenadas geográficas precisas (Coordenada X, Coordenada Y, Latitud y Longitud).
-  - **Bordes.txt:***
+  - **Bordes.txt:**
   Este archivo de texto contiene las aristas que conformarán el grafo. Estas aristas poseen únicamente una columna, la cual hace referencia al número de dirección. 
   - **Calles.txt:**
   Este último archivo de texto contiene los nombres de cada una de las calles que contiene la zona elegida.
