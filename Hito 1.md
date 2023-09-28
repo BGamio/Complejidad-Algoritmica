@@ -79,7 +79,7 @@ Para llevar a cabo este proyecto, adquirimos dos conjuntos de datos con el prop�
   
   - **Nodos.txt:**
   El presente archivo de texto contiene contiene los nodos que conformarán el grafo. Estos nodos poseen únicamente una columna, la cual hace referencia al “StreetSegid” en los registros.
-  - **Bordes.txt:***
+  - **Bordes.txt:**
   Este archivo de texto contiene las aristas que conformarán el grafo. Estas aristas poseen únicamente una columna, la cual hace referencia al “Quadcode” en los registros.
   - **Calles.txt:**
   Este último archivo de texto contiene los nombres de cada una de las calles que contiene la zona elegida.
