@@ -64,6 +64,7 @@ Decidimos que será en esta ciudad ya que según Gizmodo, blog acerca de ciencia
 Nuestro objetivo en el curso es desarrollar una aplicación similar a Waze, que se especialice en encontrar la ruta más eficiente entre dos puntos de una ciudad seleccionada. Esta se representa mediante un grafo el cual representa los detalles de la ciudad.
   
 Para abordar esta problemática, utilizaremos conjuntos de datos (datasets) que incluyen "edges" (tramos de carretera), "nodes" (nodos de intersección y coordenadas) y "streets" (nombres de calles), en ese mismo orden. También elegimos esta ciudad ya que presenta distintas avenidas diagonales  con grandes intersecciones, tal como podemos ver en la **imagen** 1.
+
    
    <img src="https://cdn.discordapp.com/attachments/1155624463161896970/1155624467066790068/foto_aerea.jpg" alt="Imagen Aerea Washington DC">
 
@@ -136,6 +137,13 @@ Con la información del archivo nodes, bordes y calles, iremos creando nuestro g
 
 ## 3. Propuesta
 El objetivo principal de esta propuesta es desarrollar un sistema de navegación eficiente que permita a los usuarios encontrar la ruta más corta entre dos puntos dentro de una ciudad. Este sistema debe ser fácil de usar, preciso y rápido, y deberá tener en cuenta varios factores como el tráfico en tiempo real, las preferencias del usuario y otros elementos relevantes.
+
+El objetivo del programa que vayamos a realizar es dirigir al usuario desde un cierto punto de la ciudad a otro evitando coincidir con el tráfico y de esa manera ahorrar tiempo de llegada.
+Las técnicas que utilizaremos para el desarrollo de esta App serán las mismas que hemos estado estudiando durante el ciclo actual, el uso de Backtracking, Dijkstra y otros algoritmos que sean necesarios, además se investigará a los distintos algoritmos de tipo topológico que nos ayude a realizar las acciones que hará nuestra aplicación.  
+
+Los algoritmos de búsqueda de la ruta más eficiente desempeñarán un papel fundamental en nuestra aplicación. Uno de los algoritmos clave que utilizaremos es el algoritmo de Dijkstra, el cual se encarga de identificar la ruta más óptima en nodos que tienen asignados valores específicos, que en nuestro caso representan la longitud de las calles en una ciudad. Esto nos permitirá determinar la ruta más corta entre dos ubicaciones especificadas por el usuario. Además de la implementación de varios algoritmos para el funcionamiento de la aplicación, es esencial mantenerla actualizada de forma constante y proporcionar alternativas en caso de que surjan obstáculos en el cálculo de la ruta más eficiente en la vida real, como cierres de calles, accidentes u otros problemas que puedan afectar las condiciones de la vía.
+
+
    - **Recopilación de datos:**
      Obtener datos cartográficos detallados de la ciudad, que incluyan información sobre calles, carreteras,   
      intersecciones, señales de tráfico
@@ -152,5 +160,11 @@ El objetivo principal de esta propuesta es desarrollar un sistema de navegación
 
 
 ## 4. Bibliografía
-<https://opendata.dc.gov/datasets/DCGIS::address-points/explore?location=38.890346%2C-77.017197%2C12.76&showTable=true>
-<https://opendata.dc.gov/datasets/8655869366064bdca04bb6793cc02a54_3/explore?showTable=true>
+Washington DC: una ciudad moldeada por y para el poder, una concentración de poder. (s. f.). https://geoimage.cnes.fr/fr/geoimage/washington-dc-una-ciudad-moldeada-por-y-para-el-poder-una-concentracion-de-poder
+
+Parábola Estudio. (2018, 15 mayo). Vistas desde el cielo de 10 sorprendentes ciudades planificadas. Medium. https://medium.com/@parabola.redes/vistas-desde-el-cielo-de-10-sorprendentes-ciudades-planificadas-2c0a3def7368
+
+Address points. (s. f.). https://opendata.dc.gov/datasets/DCGIS::address-points/explore?showTable=true
+
+Street Centerlines 2013. (s. f.). https://opendata.dc.gov/datasets/8655869366064bdca04bb6793cc02a54_3/explore?location=38.894894%2C-77.025952%2C13.00&showTable=true
+
