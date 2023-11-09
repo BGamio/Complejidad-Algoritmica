@@ -52,7 +52,7 @@ Agosto del 2023
 
 ### [Hito III: Propuesta ](#3-propuesta)
 
-### [Hito IV: Diseño del Aplicativo](#diseño-del-aplicativo)
+### [Hito IV: Diseño del Aplicativo](#4-diseño-del-aplicativo)
 
 
 ## 1. Descripción del problema
@@ -160,6 +160,12 @@ Los algoritmos de búsqueda de la ruta más eficiente desempeñarán un papel fu
 
 
 ## 4. Diseño del Aplicativo
+
+En el proceso de diseño de nuestro proyecto de aplicación, nos enfocaremos en analizar los algoritmos que implementaremos en la aplicación. Esta elección se debe a la importancia de garantizar el correcto funcionamiento de los algoritmos en nuestra aplicación, ya que es crucial monitorearlos constantemente en busca de posibles fallas o errores en el código. Asimismo, se realizarán las correcciones necesarias a lo largo de todo el desarrollo de la aplicación.
+
+Dado que nuestra aplicación se centra en las calles de las ciudades, podemos interpretarlas como grafos ponderados, donde cada calle se convierte en una arista y los cruces en vértices. Esta representación facilita la aplicación de algoritmos y cálculos basados en grafos, especialmente al calcular la ruta más corta entre diferentes puntos. Por lo tanto, utilizar y entender las calles como grafos conectados con pesos específicos resulta óptimo para la ejecución de nuestra aplicación.
+
+En la siguiente imagen, se presenta un ejemplo de un grafo que representa varias calles con diferentes puntos de una ciudad. Este es solo un ejemplo, ya que faltan los pesos de cada arista, que equivaldrían a la longitud de cada calle entre los distintos puntos conectados.
 
 ## 5. Bibliografía
 Washington DC: una ciudad moldeada por y para el poder, una concentración de poder. (s. f.). https://geoimage.cnes.fr/fr/geoimage/washington-dc-una-ciudad-moldeada-por-y-para-el-poder-una-concentracion-de-poder
