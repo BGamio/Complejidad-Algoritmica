@@ -52,6 +52,8 @@ Agosto del 2023
 
 ### [Hito III: Propuesta ](#3-propuesta)
 
+### [Hito IV: Diseño del Aplicativo](#diseño-del-aplicativo)
+
 
 ## 1. Descripción del problema
 
@@ -157,9 +159,9 @@ Los algoritmos de búsqueda de la ruta más eficiente desempeñarán un papel fu
      instrucciones paso a paso.
 
 
+## 4. Diseño del Aplicativo
 
-
-## 4. Bibliografía
+## 5. Bibliografía
 Washington DC: una ciudad moldeada por y para el poder, una concentración de poder. (s. f.). https://geoimage.cnes.fr/fr/geoimage/washington-dc-una-ciudad-moldeada-por-y-para-el-poder-una-concentracion-de-poder
 
 Parábola Estudio. (2018, 15 mayo). Vistas desde el cielo de 10 sorprendentes ciudades planificadas. Medium. https://medium.com/@parabola.redes/vistas-desde-el-cielo-de-10-sorprendentes-ciudades-planificadas-2c0a3def7368
