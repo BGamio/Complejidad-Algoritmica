@@ -53,8 +53,6 @@ Agosto del 2023
 ### [Hito III: Propuesta ](#3-propuesta)
 
 
-
-
 ## 1. Descripción del problema
 
 En el contexto del curso de complejidad algorítmica, se exploran temas que ofrecen soluciones a desafíos actuales. Estos desafíos incluyen cuestiones como la gestión vehicular y el estresante tráfico que ocurre alrededor del mundo. Los algoritmos aplicados resultan sorprendentemente prácticos y se encuentran presentes en nuestras actividades cotidianas a través de diversas aplicaciones. Es relevante destacar que uno de los más destacados es el algoritmo Dijkstra, cuyo propósito principal es "definir criterios para alcanzar metas específicas y construir un modelo con una jerarquía que tome en cuenta diversos factores o atributos para guiar la toma de decisiones" (Pavas, A. 2016). Este algoritmo desempeñará un papel central en nuestro proyecto. 

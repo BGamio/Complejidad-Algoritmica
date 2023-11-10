@@ -55,6 +55,21 @@ Agosto del 2023
 ### [Hito IV: Diseño del Aplicativo](#4-diseño-del-aplicativo)
 
 
+## Student Outcome
+
+**ABET - EAC - Student Outcome 4**
+
+**Criterio:** La capacidad de reconocer responsabilidades éticas y profesionales en situaciones de ingeniería y hacer juicios informados, que deben considerar el impacto de las soluciones de ingeniería en contextos globales, económicos, ambientales y sociales.
+
+En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET - EAC - Student Outcome 4.
+
+|                              Criterio específico                            |             Acciones realizadas             |                             Conclusiones                                     |   
+| :-------------------------------------------------------------------------- | ------------------------------------------- |-----------------------------------------------------------------------------:|
+| Demuestra ética profesional en el ejercicio de la ingeniería de software. | Carlos Rojas Ccama, Propuesta<br><br>Rodrigo Pozo Campos, Descripción del problema<br><br>Brenda Gamio Upiachihua, Descripción y visualización del conjunto de datos. | La colaboración en equipo, guiada por prácticas de desarrollo Agile, fue fundamental para fortalecer nuestra cohesión como grupo. La metodología Agile, junto con nuestra colaboración, desempeñó un papel crucial en nuestro logro. Descubrimos la relevancia de trabajar juntos de manera ágil en el ámbito de la ingeniería de software. |
+| Demuestra Responsabilidad profesional para el logro de los objetivos. | Carlos Rojas Ccama, Propuesta<br><br>Rodrigo Pozo Campos, Descripción del problema<br><br>Brenda Gamio Upiachihua, Descripción y visualización del conjunto de datos. | El compromiso en la elaboración de la propuesta es evidencia de la dedicación para alcanzar metas en mi campo de trabajo. El desarrollo continuo en equipo demostró responsabilidad. |
+| Emite juicios considerando el impacto de las soluciones de ingeniería de software en el contexto global, impacto social, ambiental y económico. | Carlos Rojas Ccama, Propuesta<br><br>Rodrigo Pozo Campos, Descripción del problema<br><br>Brenda Gamio Upiachihua, Descripción y visualización del conjunto de datos. | El equipo exhibe una sólida ética profesional y adopta un enfoque integral hacia la ingeniería de software, considerando no solo los aspectos técnicos, sino también su impacto en un contexto más amplio. |
+
+
 ## 1. Descripción del problema
 
 En el contexto del curso de complejidad algorítmica, se exploran temas que ofrecen soluciones a desafíos actuales. Estos desafíos incluyen cuestiones como la gestión vehicular y el estresante tráfico que ocurre alrededor del mundo. Los algoritmos aplicados resultan sorprendentemente prácticos y se encuentran presentes en nuestras actividades cotidianas a través de diversas aplicaciones. Es relevante destacar que uno de los más destacados es el algoritmo Dijkstra, cuyo propósito principal es "definir criterios para alcanzar metas específicas y construir un modelo con una jerarquía que tome en cuenta diversos factores o atributos para guiar la toma de decisiones" (Pavas, A. 2016). Este algoritmo desempeñará un papel central en nuestro proyecto. 
