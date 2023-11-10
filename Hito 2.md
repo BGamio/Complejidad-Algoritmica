@@ -205,9 +205,13 @@ Para la elaboración del programa, hemos decidido emplear diversos algoritmos co
 <br>
  <img src="https://cdn.discordapp.com/attachments/1172398225219657818/1172620767578562762/Imagen_de_WhatsApp_2023-11-10_a_las_10.07.40_1b9d8b2e.jpg?ex=6560fb31&is=654e8631&hm=9cb06ebb5de0bbeaca9088e394cf393600e87cbe30b82b61b3c2357a576e12fa&" alt="Home Aplicacion">
 
+## 5. Conclusiones
+En conclusión este hito, se centra en el desarrollo de un sistema de navegación eficiente que utiliza algoritmos como Dijkstra, Backtracking y posiblemente otros algoritmos mas para calcular rutas óptimas. Esto refleja una gran eficiencia en la elección de algoritmos adaptados a diferentes situaciones, permitiendo flexibilidad en el manejo de distintos escenarios y condiciones de tráfico.
+
+En conclusión, este hito tambien destacara la representación de las calles de la ciudad como grafos ponderados, donde cada calle se convierte en una arista y los cruces en vértices. Esta elección facilita la aplicación de algoritmos basados en grafos para calcular la ruta más corta entre diferentes puntos. La interpretación de la ciudad como un grafo conectado con pesos específicos resalta la atención a la estructura y la topología de la red vial, lo cual es esencial para el diseño eficiente de la aplicación proporcionando una experiencia de navegación más precisa y eficiente.
 
 
-## 5. Bibliografía
+## 6. Bibliografía
 Washington DC: una ciudad moldeada por y para el poder, una concentración de poder. (s. f.). https://geoimage.cnes.fr/fr/geoimage/washington-dc-una-ciudad-moldeada-por-y-para-el-poder-una-concentracion-de-poder
 
 Parábola Estudio. (2018, 15 mayo). Vistas desde el cielo de 10 sorprendentes ciudades planificadas. Medium. https://medium.com/@parabola.redes/vistas-desde-el-cielo-de-10-sorprendentes-ciudades-planificadas-2c0a3def7368
