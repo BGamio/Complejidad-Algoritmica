@@ -1,0 +1,54 @@
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff; /* Fondo del contenido */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sutil sombra para resaltar el contenido */
+}
+
+.StartNode,
+.EndNode {
+    background-color: #f5f5f5;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #333;
+}
+
+mat-form-field {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+mat-label {
+    color: #555;
+}
+
+input {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    width: calc(100% - 22px);
+}
+
+button {
+
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+
+.ShortestPath {
+    margin-top: 20px;
+}
