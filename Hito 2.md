@@ -180,7 +180,29 @@ En el proceso de diseño de nuestro proyecto de aplicación, nos enfocaremos en 
 
 Dado que nuestra aplicación se centra en las calles de las ciudades, podemos interpretarlas como grafos ponderados, donde cada calle se convierte en una arista y los cruces en vértices. Esta representación facilita la aplicación de algoritmos y cálculos basados en grafos, especialmente al calcular la ruta más corta entre diferentes puntos. Por lo tanto, utilizar y entender las calles como grafos conectados con pesos específicos resulta óptimo para la ejecución de nuestra aplicación.
 
-En la siguiente imagen, se presenta un ejemplo de un grafo que representa varias calles con diferentes puntos de una ciudad. Este es solo un ejemplo, ya que faltan los pesos de cada arista, que equivaldrían a la longitud de cada calle entre los distintos puntos conectados.
+Para la elaboración del programa, hemos decidido emplear diversos algoritmos como solución.
+
+**En primer lugar, consideramos la implementación del algoritmo de Dijkstra.**
+
+ Este método, ideado por Edsger Dijkstra, un destacado científico de la computación neerlandés, se utiliza para determinar la ruta más corta entre un vértice de origen y otros vértices conectados por aristas con pesos específicos. En nuestro proyecto, que se centra en calcular la ruta más eficiente entre las calles de diferentes ubicaciones en el país, encontramos que este algoritmo es idóneo. Cada calle se considera como una arista con un peso correspondiente a su longitud, y los puntos entre los cuales se desea calcular la ruta se interpretan como los vértices de un grafo.
+
+**Otro algoritmo que contemplamos es el de Bellman-Ford.**
+
+ Este enfoque busca la ruta más corta en un grafo ponderado, permitiendo incluso aristas con valores negativos. A diferencia del algoritmo de Dijkstra, el de Bellman-Ford puede utilizarse en grafos con aristas de peso negativo. En nuestro proyecto, planeamos implementar este algoritmo para explorar diferentes métodos de generación de rutas eficientes, evitando sobrecargar un único algoritmo con todas las rutas que la aplicación pueda trazar.
+
+**Finalmente, evaluamos la posibilidad de incorporar el algoritmo de Johnson.**
+
+ Este método busca las rutas más cortas entre pares de vértices en un grafo dirigido disperso, permitiendo pesos negativos en las aristas. Utiliza el algoritmo de Bellman-Ford para eliminar aristas con peso negativo, y posteriormente aplica el algoritmo de Dijkstra en el grafo resultante.
+
+ Algunas capturas de la aplicacion funcionando y en donde se podran realizar las solicitudes:
+
+<br>
+ <img src="https://cdn.discordapp.com/attachments/1172398225219657818/1172620739451555880/Imagen_de_WhatsApp_2023-11-10_a_las_10.07.40_16a96d30.jpg?ex=6560fb2a&is=654e862a&hm=2f89e718a8b8ada23b6fafe3f78feb12f3c3c5e4089664f4ab97ef73c3b8a005&" alt="Login Aplicacion">
+
+<br>
+ <img src="https://cdn.discordapp.com/attachments/1172398225219657818/1172620767578562762/Imagen_de_WhatsApp_2023-11-10_a_las_10.07.40_1b9d8b2e.jpg?ex=6560fb31&is=654e8631&hm=9cb06ebb5de0bbeaca9088e394cf393600e87cbe30b82b61b3c2357a576e12fa&" alt="Home Aplicacion">
+
+
 
 ## 5. Bibliografía
 Washington DC: una ciudad moldeada por y para el poder, una concentración de poder. (s. f.). https://geoimage.cnes.fr/fr/geoimage/washington-dc-una-ciudad-moldeada-por-y-para-el-poder-una-concentracion-de-poder
