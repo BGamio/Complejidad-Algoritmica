@@ -12,6 +12,8 @@ import {MatButtonModule} from '@angular/material/button';
 import {MatListModule} from '@angular/material/list';
 import {MatToolbarModule} from '@angular/material/toolbar';
 import { LoginComponent } from './components/login/login.component'
+import { FormsModule } from '@angular/forms';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -28,7 +30,9 @@ import { LoginComponent } from './components/login/login.component'
     MatDividerModule,
     MatButtonModule,
     MatListModule,
-    MatToolbarModule
+    MatToolbarModule,
+    FormsModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
