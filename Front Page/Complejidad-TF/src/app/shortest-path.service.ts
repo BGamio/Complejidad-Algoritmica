@@ -13,6 +13,6 @@ export class ShortestPathService {
 
   findShortestPath(start: any, end: any): Observable<any> {
     const data = { start, end };
-    return this.http.post<any>(`${this.apiUrl}/find_shortest_path`, data);
+    return this.http.post<any>(`${this.apiUrl}/get_shortest_path`, data);
   }
 }

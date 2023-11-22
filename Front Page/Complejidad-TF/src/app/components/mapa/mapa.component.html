@@ -26,11 +26,15 @@
         <button mat-raised-button color="primary" (click)="findShortestPath()">Buscar Ruta</button>
         <div class="ShortestPath">
             <h3>Ruta más corta:</h3>
-                <ul>
-                <li *ngFor="let node of shortestPath">{{ node.ADDRESS_NUMBER }} - {{ node.STREET_NAME }}</li>
-                </ul>
-
-        </div>
+            <ul>
+              <li *ngFor="let node of shortestPath; let i = index">
+                {{ node[0] }} - {{ node[1] }}
+              </li>
+            </ul>
+          </div>
+          
+          
+          
     </div>
 </div>
 
